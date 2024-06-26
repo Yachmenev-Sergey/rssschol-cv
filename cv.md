@@ -13,3 +13,8 @@
 ## Summary
 
 I am currently working as a system administrator for a small company. I have no work experience in layout and programming, I really want to get such experience and get a job in a good company.
+
+## Skills
+
+- Windows OS
+- Figma
