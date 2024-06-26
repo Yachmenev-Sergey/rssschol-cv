@@ -22,3 +22,7 @@ I am currently working as a system administrator for a small company. I have no 
 ## Education
 
 - Tyumen Agricultural University, Bachelor's degree
+
+## Languages
+
+- Russian
