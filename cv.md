@@ -18,3 +18,7 @@ I am currently working as a system administrator for a small company. I have no 
 
 - Windows OS
 - Figma
+
+## Education
+
+- Tyumen Agricultural University, Bachelor's degree
